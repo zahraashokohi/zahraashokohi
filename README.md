@@ -9,7 +9,12 @@
     I am familiar with the Flutter framework and have the ability to debug mobile applications.
     Additionally, I have worked with Arduino and Raspberry Pi boards.
   </p>
-
+</div>
+<div align="center">
+<!--  <a href="https://skillicons.dev"> -->
+<!-- <img src="https://skillicons.dev/icons?i=react,nodejs,,git,github,vscode&perline=12" /> -->
+<!--   </a> -->
+<img src="https://skillicons.dev/icons?i=ji=react,nodejs,,git,github,vscode&perline=13" />
 </div>
 <!--
 **zahraashokohi/zahraashokohi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
